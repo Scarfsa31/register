@@ -1,8 +1,9 @@
+
 {
   "$schema": "./schema/register.schema.json",
   "openrepos.io": {},
   "openrepos.org": {
-    "kubecell": {
+    "roberber": {
       "repo": "https://github.com/taosher/KubeCell",
       "target": "kubecell.pages.dev"
     }
